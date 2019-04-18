@@ -22,3 +22,5 @@ print(len(spectr))
 
 plt.plot(freq, spectr)
 plt.show()
+
+print('Project done!')
