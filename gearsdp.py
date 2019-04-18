@@ -1,3 +1,3 @@
 class timedomain:
-    def signal(a, b, c):
+    def signal(a, b, c, d):
         return True
